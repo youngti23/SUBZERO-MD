@@ -1,11 +1,11 @@
 ---------
 
-### <br>  ❖ ❄️ ＳＵＢＺＥＲＯ - ＭＤ - ＢＯＴ - Ｖ1❄️❖
+### ❖ ❄️ ＳＵＢＺＥＲＯ - ＭＤ - ＢＯＴ❄️❖
 🔰 **`A WhatsApp Multi Device Bot To Take Your WhatsApp To Another Level !`** 🔰
 
 ----------
 
-<a><img src='https://pomf2.lain.la/f/cdn0360.jpg'/></a>
+<a><img src='https://i.postimg.cc/9fVpSkn7/IMG-20241213-WA0012.jpg'/></a>
 
 -------
 
@@ -79,7 +79,7 @@ jobs:
 `🚀 IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+263xxxxxx THEN YOU CAN GET YOUR SESSION_ID 🚀`
 
 ----------
-#  USE SESSION 
+## TAP HERE SESSION 
 <p align="center">
 <a href="https://subzero-session-idonrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
 <p/>
