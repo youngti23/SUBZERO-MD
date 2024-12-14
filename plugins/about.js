@@ -31,7 +31,7 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let madeMenu = `❁ ════ ❃•⇆•❃ ════ ❁
 
-*👋 HELLO ${pushname}*\n\n *I AM SUHZERO MD V4*\n\n *A MULTIDEVICE BOT 😗*\n\n *CREATED BY THE BIG TEAM ZERO CODERS🇨🇲*\n\n *DON'T FORGET TO ENJOY BRO😎*\n\n\n *THANK YOU.😊*
+*👋 HELLO ${pushname}*\n\n *I AM SUBZERO MD V1*\n\n *A MULTIDEVICE BOT 😗*\n\n *CREATED BY THE BIG TEAM ZERO CODERS🇨*\n\n *DON'T FORGET TO ENJOY BRO😎*\n\n\n *THANK YOU.😊*
 
 ❁ ════ ❃•⇆•❃ ════ ❁
 
