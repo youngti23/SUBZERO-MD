@@ -1,7 +1,7 @@
 ---------
 
-### <br>  ❖ KERM MD V4 ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY KGTECH 🇨🇲`** 🔰
+### <br>  <center>❖ SUBZERO - MD ❖</center>
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY MR FRANK`** 🔰
 
 ----------
 
@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://github.com/Kgtech-cmr/"><img title="Followers" src="https://img.shields.io/github/followers/Kgtech-cmr?color=blue&style=flat-square"></a>
 <a href="https://github.com/Kgtech-cmr/KERM_MD-V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM_MD-V4?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM_MD-V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kgtech-cmr/KERM_MD-V4?color=blue&style=flat-square"></a>
+<a href="https://github.com/ZwSyntax/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZwSyntax/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Kgtech-cmr/KERM_MD-V4/"><img title="Size" src="https://img.shields.io/github/repo-size/Kgtech-cmr/KERM_MD-V4?style=flat-square&color=blue"></a>
 <a href="https://github.com/Kgtech-cmr/KERM_MD-V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
