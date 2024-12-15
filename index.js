@@ -96,9 +96,11 @@ console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
 console.log('SUBZERO CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
-*╺╺╺╺╺╺╺⟢SUBZERO MD CONNECTED ✅⟣╺╺╺╺╺╺◈*
+*╺╺╺╺⟢SUBZERO MD CONNECTED ✅⟣╺╺╺◈*
 > *❄️ sᴜʙᴢᴇʀᴏ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ғᴏʀ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ ( xᴇʀᴏ ᴄᴏᴅᴇʀs ᴄᴇᴏ ❄️*
-
+> *VERSION* :1.0.0
+> *COMMANDS* : 200+
+>  *DEVELOPER* - Mr Frank
 ━━━━━━━━━━━━━━━━━━━━━
 > *❄️ ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ sᴜʙᴢᴇʀᴏ ᴜᴘᴅᴀᴛᴇs *
 
