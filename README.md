@@ -82,7 +82,7 @@ jobs:
 ----------
 ## TAP HERE SESSION 
 <p align="center">
-<a href="https://subzero-session-idonrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
+<a href="https://subzero-session-id.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
 <p/>
 --------
 
