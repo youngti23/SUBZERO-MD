@@ -93,34 +93,33 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SUBZERO CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('SUBZEROCONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
-*╺╺╺╺⟢SUBZERO MD CONNECTED ✅⟣╺╺╺◈*
+*╺╺╺⟢SUBZERO MD CONNECTED ✅⟣╺╺╺◈*
+
 > *❄️ sᴜʙᴢᴇʀᴏ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ғᴏʀ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ ( xᴇʀᴏ ᴄᴏᴅᴇʀs ᴄᴇᴏ ❄️*
-> *VERSION* :1.0.0
-> *COMMANDS* : 200+
->  *DEVELOPER* - Mr Frank
-━━━━━━━━━━━━━━━━━━━━━
+
+*━━━━━━━━━━━━━━━━━━━ 
+
+➮ ᴘʀᴏᴊᴇᴄᴛ ɴᴀᴍᴇ : sᴜʙᴢᴇʀᴏ ᴡ.ᴀ ʙᴏᴛ
+➮ 📂 ʀᴇᴘᴏ -  https://github.com/ZwSyntax/SUBZERO-MD
+➮ 📃 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ - ᴀ ᴍᴜʟᴛɪ ᴛᴀsᴋ ᴡ.ᴀ ʙɪᴛ
+➮ 🛡️ ᴅᴇᴠᴇʟᴏᴘᴇʀ - ᴍʀ ғʀᴀɴᴋ ᴏғᴄ
+➮ 🌐 ᴡᴇʙsɪᴛᴇ  - https://mrfrankinc.vercel.app
+
+━━━━━━━━━━━━━━━━━━━
 > *❄️ ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ sᴜʙᴢᴇʀᴏ ᴜᴘᴅᴀᴛᴇs *
 
 https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
 
-━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━
 > *❄️ ᴠɪsɪᴛ ᴏᴜʀ ᴡᴇʙsɪᴛᴇ*
 
 https://mrfrankinc.vercel.app
 
-*━━━━━━━━━━━━━━━━━━━━━ 
 
-➮ ᴘʀᴏᴊᴇᴄᴛ ɴᴀᴍᴇ : sᴜʙᴢᴇʀᴏ ᴡ.ᴀ ʙᴏᴛ
-➮ 📂 ʀᴇᴘᴏ -  https://github.com/ZwSyntax/SUBZERO-MD
-➮ 📃 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ - ᴀ ɢɪғᴛᴇᴅ ʙᴏᴛ
-➮ 🛡️ ᴅᴇᴠᴇʟᴏᴘᴇʀ - ᴍʀ ғʀᴀɴᴋ ᴏғᴄ
-➮ 🌐 ᴡᴇʙsɪᴛᴇ  - https://mrfrankinc.vercel.app
-
-
-*YOU ARE A GENIUS♥️🪄*\n\n*PREFIX: ${prefix}*
+*Thanks For Supporting us♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *✱╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺✱*`;
 conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/9fVpSkn7/IMG-20241213-WA0012.jpg` }, caption: up })
@@ -194,7 +193,7 @@ if(senderNumber.includes("263719647303")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("18062212660")){
+if(senderNumber.includes("263719647303")){
 if(isReact) return
 m.react("👑")
 }
