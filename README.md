@@ -18,7 +18,7 @@
 --------
 
 <p align="center">
-<a href="https://github.com/Zwsyntax/"><img title="Followers" src="https://img.shields.io/github/followers/zwsyntax?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/"><img title="Followers" src="https://img.shields.io/github/followers/zwsyntax?color=blue&style=flat-square"></a>
 <a href="https://github.com/Zwsyntax/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ZwSyntax/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/ZwSyntax/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZwSyntax/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/ZwSyntax/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/ZwSyntax/SUBZERO-MD?style=flat-square&color=blue"></a>
