@@ -69,7 +69,7 @@ cmd({
     }
     _0x352508.react('⬇️');
     let _0x3cc321 = await downloadTiktok(_0x56889c);
-    let _0x17702e = "\n*⚬SUBZERO-MD-ᴛɪᴋᴛᴏᴋ⚬*  \n*ᴛɪᴛʟᴇ*:  " + _0x3cc321.result.title + "\n\n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ꜰɪʟᴇ* 🎬\n\n*1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ꜰɪʟᴇ*🎧\n\n*3*     ┃  *ᴀᴜᴅɪᴏ*\n\n> SUBZERO-MD✻\n     ";
+    let _0x17702e = "\n*⚬sᴜʙᴢᴇʀᴏ ᴍᴅ ᴛɪᴋᴛᴏᴋ⚬*  \n*ᴛɪᴛʟᴇ*:  " + _0x3cc321.result.title + "\n\n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ꜰɪʟᴇ* 🎬\n\n*1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ꜰɪʟᴇ*🎧\n\n*3*     ┃  *ᴀᴜᴅɪᴏ*\n\n> SUBZERO-MD✻\n     ";
     const _0x1a2830 = await _0xd77fff.sendMessage(_0x5edbe4, {
       'image': {
         'url': _0x3cc321.result.image
@@ -104,7 +104,7 @@ cmd({
             'video': {
               'url': _0x5d2707.dl_link.download_mp4_1
             },
-            'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD · · ²³⁷*"
+            'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ sᴜʙᴢᴇʀᴏᴅ*"
           }, {
             'quoted': _0x58803e
           });
@@ -114,7 +114,7 @@ cmd({
               'video': {
                 'url': _0x5d2707.dl_link.download_mp4_2
               },
-              'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD · · ·²³⁷*"
+              'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ sᴜʙᴢᴇʀᴏ ᴍᴅ· · ·²³⁷*"
             }, {
               'quoted': _0x58803e
             });
@@ -181,7 +181,7 @@ cmd({
       }
     });
     const _0x21f387 = await facebook(_0x3f223d);
-    const _0x3ec2b8 = "\n*⚬SUBZERO-MD-ꜰʙ⚬*  \n*⌛ᴅᴜʀᴀᴛɪᴏɴ* : " + _0x21f387.result.duration + "\n\n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎬*\n\n*1.1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*1.2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎧*\n\n*2.1*     ┃  *ᴀᴜᴅɪᴏ*\n*2.2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n*2.3*     ┃  *ᴠᴏɪᴄᴇ*\n\n> SUBZERO-MD✻\n";
+    const _0x3ec2b8 = "\n*⚬sᴜʙᴢᴇʀᴏ ᴍᴅ - ꜰʙ⚬*  \n*⌛ᴅᴜʀᴀᴛɪᴏɴ* : " + _0x21f387.result.duration + "\n\n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎬*\n\n*1.1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*1.2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎧*\n\n*2.1*     ┃  *ᴀᴜᴅɪᴏ*\n*2.2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n*2.3*     ┃  *ᴠᴏɪᴄᴇ*\n\n> SUBZERO-MD✻\n";
     const _0x113e79 = await _0x1ac136.sendMessage(_0x1a04e3, {
       'image': {
         'url': _0x21f387.result.thumbnail
@@ -218,7 +218,7 @@ cmd({
             'video': {
               'url': _0x2cfc3f.links.SD
             },
-            'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD · · ·²³⁷*"
+            'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ sᴜʙᴢᴇʀᴏ ᴍᴅ*"
           }, {
             'quoted': _0x5ded0a
           });
@@ -228,7 +228,7 @@ cmd({
               'video': {
                 'url': _0x2cfc3f.links.HD
               },
-              'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD · · ·²³⁷*"
+              'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ sᴜʙᴢᴇʀᴏ ᴍᴅ· · "
             }, {
               'quoted': _0x5ded0a
             });
@@ -250,7 +250,7 @@ cmd({
                   },
                   'mimetype': "audio/mpeg",
                   'fileName': "KG/FBDL.mp3",
-                  'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD · · ·²³⁷*"
+                  'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ sᴜʙᴢᴇʀᴏ ᴍᴅ*"
                 }, {
                   'quoted': _0x5ded0a
                 });
@@ -334,7 +334,7 @@ cmd({
       'image': {
         'url': _0x247442
       },
-      'caption': "\n*⚬Kᴇʀᴍ_ᴍᴅ-ᴠ4-ᴛᴡɪᴛᴇʀ⚬*  \n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎬*\n\n*1.1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*1.2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎧*\n\n*2.1*     ┃  *ᴀᴜᴅɪᴏ*\n*2.2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n*2.3*     ┃  *ᴠᴏɪᴄᴇ*\n\n> Kᴇʀᴍ_ᴍᴅ-ᴠ4 ✻\n"
+      'caption': "\n*⚬sᴜʙᴢᴇʀᴏ ᴛᴡɪᴛᴇʀ⚬*  \n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎬*\n\n*1.1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*1.2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎧*\n\n*2.1*     ┃  *ᴀᴜᴅɪᴏ*\n*2.2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n*2.3*     ┃  *ᴠᴏɪᴄᴇ*\n\n> sᴜʙᴢᴇʀᴏ✻\n"
     }, {
       'quoted': _0x52bd10
     });
@@ -359,7 +359,7 @@ cmd({
             'video': {
               'url': _0x15a4a6
             },
-            'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD · · ·²³⁷*"
+            'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ sᴜʙᴢᴇʀᴏ*"
           }, {
             'quoted': _0x2405c0
           });
@@ -391,7 +391,7 @@ cmd({
                   },
                   'mimetype': "audio/mpeg",
                   'fileName': "ʟᴀʀᴀ-ᴍᴅ/TWDL.mp3",
-                  'caption': "*© CREATED BYSUBZERO-MD · · ·²³⁷*"
+                  'caption': "*© CREATED BY SUBZERO-MD · · ·²³⁷*"
                 }, {
                   'quoted': _0x2405c0
                 });
@@ -877,7 +877,7 @@ cmd({
                   },
                   'mimetype': "video/mp4",
                   'fileName': "MR JANIYA | " + _0x1d0aed.title + '.mp4',
-                  'caption': _0x1d0aed.title + " |  *Kɢ Tᴇᴄʜ*\n\n> Kᴇʀᴍ_ᴍᴅ-ᴠ4"
+                  'caption': _0x1d0aed.title + " |  *ᴍʀ ғʀᴀɴᴋ *\n\n> sᴜʙᴢᴇʀᴏ ᴍᴅ"
                 }, {
                   'quoted': _0x171143
                 });
@@ -939,7 +939,7 @@ cmd({
     let _0xd49d48 = '.' + _0x9dad20;
     let _0x1d38a3 = _0x35ebe9.datalist.list[0x0].size / 0xf4240;
     let _0x5a853a = _0x1d38a3 - _0xd49d48;
-    let _0x408ceb = "\n*⚬sᴜʙᴢᴇʀᴏ ᴍᴅ ᴀᴘᴋ⚬*  \n*🏷️ Nᴀᴍᴇ :* " + _0x35ebe9.datalist.list[0x0].name + "\n\n*📦 Sɪᴢᴇ :* " + _0x5a853a + "MB\n\n*🔖 Pᴀᴄᴋᴀɢᴇ :* " + _0x35ebe9.datalist.list[0x0]['package'] + "\n\n*📆 Lᴀꜱᴛ Uᴘᴅᴀᴛᴇ :* " + _0x35ebe9.datalist.list[0x0].updated + "\n\n*👤 Dᴇᴠᴇʟᴏᴘᴇʀꜱ :* " + _0x35ebe9.datalist.list[0x0].developer.name + "\n\n> SUBZERO-MD✻\n";
+    let _0x408ceb = "\n*⚬sᴜʙᴢᴇʀᴏ ᴍᴅ ᴀᴘᴋ⚬*  \n*🏷️ Nᴀᴍᴇ :* " + _0x35ebe9.datalist.list[0x0].name + "\n\n*📦 Sɪᴢᴇ :* " + _0x5a853a + "MB\n\n*🔖 Pᴀᴄᴋᴀɢᴇ :* " + _0x35ebe9.datalist.list[0x0]['package'] + "\n\n*📆 Lᴀꜱᴛ Uᴘᴅᴀᴛᴇ :* " + _0x35ebe9.datalist.list[0x0].updated + "\n\n*👤 Dᴇᴠᴇʟᴏᴘᴇʀꜱ :* " + _0x35ebe9.datalist.list[0x0].developer.name + "\n\n> ᴍᴀᴅᴇ ʙʏ sᴜʙᴢᴇʀᴏ ᴍᴅ\n";
     await _0x3cbff5.react('⬆');
     await _0x56da32.sendMessage(_0xbd3b9f, {
       'document': {
@@ -1058,7 +1058,7 @@ cmd({
                       'mentionedJid': [],
                       'externalAdReply': {
                         'title': _0x4bd79a.title,
-                        'body': "Download powered by Kerm_Md-V4",
+                        'body': "ᴍᴀᴅᴇ ʙʏ sᴜʙᴢᴇʀᴏ",
                         'mediaType': 0x1,
                         'sourceUrl': _0x51bcf2.link,
                         'thumbnailUrl': _0x4bd79a.image
@@ -1148,7 +1148,7 @@ cmd({
         },
         'mimetype': _0x5736f7.data.result.mimetype,
         'fileName': _0x5736f7.data.result.fileName,
-        'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD · · ·²³⁷*\n\n> Kᴇʀᴍ_ᴍᴅ-ᴠ4 ✻"
+        'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ sᴜʙᴢᴇʀᴏ*\n\n> Ｓｕｂｚｅｒｏ ✻"
       }, {
         'quoted': _0x5afcc4
       });
