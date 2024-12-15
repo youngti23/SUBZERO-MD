@@ -53,7 +53,7 @@ let madeMenu = `
 ┊➮│▧ *ʀᴜɴᴛɪᴍᴇ* : ${runtime(process.uptime())}
 ┊➮│▧ *ᴍᴏᴅᴇ* : *[${config.MODE}]*
 ┊➮│▧ *ᴘʀᴇғɪx* : *[${config.PREFIX}]*
-┊➮│▧ *ʀᴀᴍ ᴜsᴀɢᴇ* : 
+┊➮│▧ *ʀᴀᴍ ᴜsᴀɢᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 ┊➮│▧ *ɴᴀᴍᴇ ʙᴏᴛ* : *sᴜʙᴢᴇʀᴏ ᴍᴅ*
 ┊➮│▧ *ᴠᴇʀsɪᴏɴ* : *1.0.0*
 ┊➮│▧ *ᴄʀᴇᴀᴛᴏʀ* : *ᴍʀ ғʀᴀɴᴋ🇿🇼*
