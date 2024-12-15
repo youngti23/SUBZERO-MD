@@ -93,23 +93,23 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SUBZEROCONNECTED TO WHATSAPP ENJOY ✅')
+console.log('SUBZERO CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
 *╺╺╺╺╺╺╺⟢SUBZERO MD CONNECTED ✅⟣╺╺╺╺╺╺◈*
 > *❄️ sᴜʙᴢᴇʀᴏ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ғᴏʀ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ ( xᴇʀᴏ ᴄᴏᴅᴇʀs ᴄᴇᴏ ❄️*
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━
 > *❄️ ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ sᴜʙᴢᴇʀᴏ ᴜᴘᴅᴀᴛᴇs *
 
 https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━
 > *❄️ ᴠɪsɪᴛ ᴏᴜʀ ᴡᴇʙsɪᴛᴇ*
 
 https://mrfrankinc.vercel.app
 
-*━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+*━━━━━━━━━━━━━━━━━━━━━ 
 
 ➮ ᴘʀᴏᴊᴇᴄᴛ ɴᴀᴍᴇ : sᴜʙᴢᴇʀᴏ ᴡ.ᴀ ʙᴏᴛ
 ➮ 📂 ʀᴇᴘᴏ -  https://github.com/ZwSyntax/SUBZERO-MD
@@ -121,7 +121,7 @@ https://mrfrankinc.vercel.app
 *YOU ARE A GENIUS♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *✱╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺✱*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/osriwc.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/9fVpSkn7/IMG-20241213-WA0012.jpg` }, caption: up })
 
 }
 })
@@ -192,7 +192,7 @@ if(senderNumber.includes("263719647303")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("263719647303")){
+if(senderNumber.includes("18062212660")){
 if(isReact) return
 m.react("👑")
 }
