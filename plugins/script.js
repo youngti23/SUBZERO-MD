@@ -35,16 +35,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *KG TECH🇨🇲*
+*|* *ᴍʀ ғʀᴀɴᴋ ᴏғᴄ*
 
-> *KERM_MD-V4 REPO:*
-*|* *https://github.com/Kgtech-cmr/KERM_MD-V4*
+> *SUBZERO REPO:*
+*|* *https://github.com/zwsyntaxr/SUBZERO-MD*
 
 > *SUPPORT GROUP:*
-*|* *https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45*
+*|* *https://whatsapp.com/channel/*
 *╰──────────────●●►*
 
-> *CREATED BY KG TECH*
+> *CREATED BY MR FRANK*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -61,7 +61,7 @@ externalAdReply: {
 title: 'Kᴇʀᴍ_Mᴅ-V4',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Kgtech-cmr/KERM_MD-V4" ,
+sourceUrl: "https://github.com/ZwSyntax/SUBZERO-MD" ,
 thumbnailUrl: "https://files.catbox.moe/osriwc.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true

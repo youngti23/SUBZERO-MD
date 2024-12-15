@@ -65,7 +65,7 @@ let madeSetting =`*╭────⚃* *SETTINGS* *⚃*
 *┊* *♾️ OWNER_REACT:* ➠ ${config.OWNER_REACT} 
 *┊* *♾️ BOT_NAME:* ➠ ${config.BOT_NAME}
 
-> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋᴇʀᴍ_ᴍᴅ-ᴠ4
+> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ
 *╰═════════════⚃*
 `
 

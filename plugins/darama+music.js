@@ -40,7 +40,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁*KERM_MD-V4 MUSⵊC DOWNLOADⵊNG*⦁⫸
+⫷⦁*SUBZERO-MD MUSⵊC DOWNLOADⵊNG*⦁⫸
 
 🎵 *MUSⵊC FOUND!* 
 
@@ -52,9 +52,9 @@ let desc = `
 
 🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
-> *KERM_MD-V4 WHATSAPP BOT* 
+> *SUBZERO-MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kᴇʀᴍ_ᴍᴅ-ᴠ4* 
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -66,7 +66,7 @@ let downloadUrl = down.dl_url
 
 //send audio message
 await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
-await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kɢ ᴛᴇᴄʜ*"},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ*"},{quoted:mek})
 
 }catch(e){
 console.log(e)
@@ -93,7 +93,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁*•KERM_MD-V4 VⵊDEO DOWNLOADⵊNG*⦁⫸ 
+⫷⦁*•SUBZERO-MD VⵊDEO DOWNLOADⵊNG*⦁⫸ 
 
 🎥 *VⵊDEO FOUND!* 
 
@@ -105,9 +105,9 @@ let desc = `
 
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
-> *KERM_MD-V4 WHATSAPP BOT* 
+> *SUBZERO-MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kᴇʀᴍ_ᴍᴅ-ᴠ4*
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});

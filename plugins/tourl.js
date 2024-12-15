@@ -76,7 +76,7 @@ cmd({
     let uploadedFile = await shannzCdn(filePath);
 
     if (uploadedFile && uploadedFile.status && uploadedFile.result?.url) {
-      const message = `*✅ SUCCESSFUL UPLOAD!*\n\n🔗 *DIRECT LINK:*\n${uploadedFile.result.url}\n\n> POWERED BY KERM MD V4`;
+      const message = `*✅ SUCCESSFUL UPLOAD!*\n\n🔗 *DIRECT LINK:*\n${uploadedFile.result.url}\n\n> POWERED BY SUBZERO`;
       await conn.sendMessage(from, {
         text: message
       });

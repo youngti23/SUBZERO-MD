@@ -46,7 +46,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬KERM_MD-V4 MOVIE SERCH🎬*
+*🎬SUBZEROV4 MOVIE SERCH🎬*
 
 *ᴛɪᴛʟᴇ:* ${data.Title}
 *ʏᴇᴀʀ:* ${data.Year}
@@ -62,7 +62,7 @@ cmd({
 *ᴀᴡᴀʀᴅꜱ:* ${data.Awards}
 *ɪᴍᴅʙ ʀᴀᴛɪɴɢ:* ${data.imdbRating}
 
-> POWERED BY KERM_MD-V4
+> POWERED BY MR FRANK
 `;
 
         const imageUrl = data.Poster && data.Poster !== 'N/A' ? data.Poster : config.ALIVE_IMG;
