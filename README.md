@@ -18,11 +18,11 @@
 --------
 
 <p align="center">
-<a href="https://github.com/mrfrank-ofc/"><img title="Followers" src="https://img.shields.io/github/followers/zwsyntax?color=blue&style=flat-square"></a>
-<a href="https://github.com/Zwsyntax/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ZwSyntax/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/ZwSyntax/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZwSyntax/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/ZwSyntax/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/ZwSyntax/SUBZERO-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/ZwSyntax/SUBZERO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/mrfrank-ofc/"><img title="Followers" src="https://img.shields.io/github/followers/mrfrank-ofc?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrank-ofc/SUBZERO-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -72,7 +72,7 @@ jobs:
       run: npm start
 ```
 
-[![FORK SUBZERO MD](https://img.shields.io/badge/FORK%20-SUBZERO%20MD%20V4-white)](https://github.com/ZwSyntax/SUBZERO-MD/fork)
+[![FORK SUBZERO MD](https://img.shields.io/badge/FORK%20-SUBZERO%20MD%20V4-white)](https://github.com/mrfrank-ofc/SUBZERO-MD/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
@@ -124,7 +124,7 @@ jobs:
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/ZwSyntax/SUBZERO-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/mrfrank-ofc/SUBZERO-MD)
 
 ----------
 
@@ -134,7 +134,7 @@ jobs:
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/ZwSyntax/SUBZERO-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/mrfrank-ofc/SUBZERO-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
@@ -178,7 +178,7 @@ jobs:
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
-`🚀 HOW TO DEPLOY SUBZERO-MDON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
+`🚀 HOW TO DEPLOY SUBZERO-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
 
 -------------
 
