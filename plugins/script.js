@@ -38,10 +38,10 @@ let repo =`
 *|* *ᴍʀ ғʀᴀɴᴋ ᴏғᴄ*
 
 > *SUBZERO REPO:*
-*|* *https://github.com/zwsyntaxr/SUBZERO-MD*
+*|* *https://github.com/mrfrank-ofc/SUBZERO-MD*
 
 > *SUPPORT GROUP:*
-*|* *https://whatsapp.com/channel/*
+*|* *https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D*
 *╰──────────────●●►*
 
 > *CREATED BY MR FRANK*
@@ -54,15 +54,15 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363321386877609@newsletter',
-      newsletterName: "ᴋᴇʀᴍ ᴄʜᴀɴɴᴇʟ",
+      newsletterName: "SUBZERO MD",
       serverMessageId: 999
     },
 externalAdReply: { 
 title: 'Kᴇʀᴍ_Mᴅ-V4',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/ZwSyntax/SUBZERO-MD" ,
-thumbnailUrl: "https://files.catbox.moe/osriwc.jpg" ,
+sourceUrl: "https://github.com/mrfrank-ofc/SUBZERO-MD" ,
+thumbnailUrl: "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
