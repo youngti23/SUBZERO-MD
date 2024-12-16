@@ -230,7 +230,7 @@ const _0x4f6b5b = {
   "pattern": "mute",
   "react": '🔇',
   "alias": ["close", "f_mute"],
-  "desc": "Change to group settings to only admins can send messages.",
+  "desc": "Change to group settings to only admins can send messages & Mr Frank.",
   category: "group",
   use: ".mute",
   filename: __filename
@@ -281,7 +281,7 @@ cmd(_0x4f6b5b, async (_0x4b40bf, _0x46e420, _0x21f531, {
     }
     await _0x4b40bf.groupSettingUpdate(_0x16d660, "announcement");
     const _0x474444 = {
-      text: "*Group Chat closed by Admin " + _0x43018a + "* 🔇"
+      text: "*Yooh Guys Iam Tired 😓, Its Time to rest, Group Chat closed by Admin " + _0x43018a + "* 🔇"
     };
     const _0x1b6661 = {
       "quoted": _0x46e420
@@ -304,7 +304,7 @@ const _0x87e572 = {
   "pattern": "unmute",
   "react": '🔇',
   "alias": ["open", 'f_unmute'],
-  "desc": "Change to group settings to all members can send messages.",
+  "desc": "I have rested Enough, Changed  group settings to all members can send messages.",
   category: 'group',
   "use": ".unmute",
   "filename": __filename
@@ -355,7 +355,7 @@ cmd(_0x87e572, async (_0x1d32ad, _0x5b4c22, _0x4681d1, {
     }
     await _0x1d32ad.groupSettingUpdate(_0x485de2, 'not_announcement');
     const _0x59c538 = {
-      text: "*Group Chat Opened by Admin " + _0x2d059b + "* 🔇"
+      text: "*At Last, Group Chat Opened by Admin " + _0x2d059b + "* 🔇"
     };
     const _0x2aec2a = {
       "quoted": _0x5b4c22
