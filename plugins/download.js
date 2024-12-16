@@ -319,7 +319,7 @@ cmd({
         'key': _0x52bd10.key
       }
     });
-    const _0x13f218 = await axios.get("https://www.dark-yasiya-api.site/download/twitter?url=" + _0x7e7f9b);
+    const _0x13f218 = await axios.get("https://api.giftedtech.my.id/api/download/twitter?apikey=gifted&url=" + _0x7e7f9b);
     const _0x467ca1 = _0x13f218.data;
     if (!_0x467ca1 || !_0x467ca1.status || !_0x467ca1.result) {
       return _0x4b2f59.reply("Failed to retrieve Twitter video. Please check the link and try again.");
@@ -452,7 +452,7 @@ cmd({
       return _0x788d94.reply("Please provide a valid MediaFire link.");
     }
     _0x788d94.react('⬇️');
-    const _0x206b82 = await axios.get('https://www.dark-yasiya-api.site/download/mfire?url=' + _0x4da4fa);
+    const _0x206b82 = await axios.get('https://api.giftedtech.my.id/api/download/mediafiredl?apikey=gifted&url=' + _0x4da4fa);
     const _0x2d69c7 = _0x206b82.data;
     if (!_0x2d69c7 || !_0x2d69c7.status || !_0x2d69c7.result || !_0x2d69c7.result.dl_link) {
       return _0x788d94.reply("Failed to fetch MediaFire download link. Ensure the link is valid and public.");
@@ -461,7 +461,7 @@ cmd({
     const _0x107843 = _0x2d69c7.result.fileName || "mediafire_download";
     const _0xecfe76 = _0x2d69c7.result.fileType || "application/octet-stream";
     _0x788d94.react('⬆️');
-    let _0x3ba839 = "\n        ┏━┫*⚬Kᴇʀᴍ_ᴍᴅ-ᴠ4-ᴍꜰɪʀᴇ⚬*┣━✾\n┃  \n*ꜰɪʟᴇ ɴᴀᴍᴇ :* " + _0x107843 + "\n\n*ꜰɪʟᴇ ᴛʏᴘᴇ :* " + _0xecfe76 + "\n\n> Kᴇʀᴍ_ᴍᴅ-ᴠ4 ✻\n        ";
+    let _0x3ba839 = "\n        ┏━┫*⚬subzero mediafire⚬*┣━✾\n┃  \n*ꜰɪʟᴇ ɴᴀᴍᴇ :* " + _0x107843 + "\n\n*ꜰɪʟᴇ ᴛʏᴘᴇ :* " + _0xecfe76 + "\n\n> subzero✻\n        ";
     await _0x3ab728.sendMessage(_0x47d2c3, {
       'document': {
         'url': _0x24c64d
@@ -668,7 +668,7 @@ cmd({
     if (!_0xa91317) {
       return _0x51e6c6("*Please give me url !!*");
     }
-    let _0x5dfef2 = await fetchJson("https://www.dark-yasiya-api.site/download/xvideo?url=" + _0xa91317);
+    let _0x5dfef2 = await fetchJson("https://api.giftedtech.my.id/api/download/xvideosdl?apikey=gifted&url=" + _0xa91317);
     const _0x5a66af = "\n   🔞 *XVIDEO DOWNLOADER* 🔞\n\n     \n• *Title* - " + _0x5dfef2.result.title + "\n\n• *Views* - " + _0x5dfef2.result.views + "\n\n• *Like* - " + _0x5dfef2.result.like + "\n\n• *Deslike* - " + _0x5dfef2.result.deslike + "\n\n• *Size* - " + _0x5dfef2.result.size;
     await _0x247db1.sendMessage(_0x3b0c57, {
       'video': {
