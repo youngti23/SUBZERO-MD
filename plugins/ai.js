@@ -16,33 +16,31 @@
 ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
 
 
-const config = require('../config')
-const {cmd , commands} = require('../command')
-const { fetchJson } = require('../lib/functions')
+  const axios = require('axios');
+const config = require('../config');
+const { cmd, commands } = require('../command');
 
 cmd({
    pattern: "ai",
-   alias: ["gpt","subzero"], 
+   desc: "💬 Chat with AI Assistant",
    react: "🧠",
-   desc: "ai chat.",
-   category: "main",
+   category: "ai",
    filename: __filename
 },
-async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-try{
-   if (!q) {
-       return reply("Please provide a query for the AI. Usage: .ai [your question]")
-   }
+async (conn, mek, m, { from, q, reply }) => {
+   try {
+       if (!q) return reply("❗ Please provide a query. Usage: .ai [your message]");
 
-   let data = await fetchJson(`https://apis-v69.onrender.com/ai?query=${encodeURIComponent(q)}`)
-   
-   if (data && data.response) {
-       return reply(data.response)
-   } else {
-       return reply("Sorry, I couldn't get a response from the AI.")
+       const response = await axios.get(`https://apis-v69.onrender.com/ai?query=${encodeURIComponent(q)}`);
+       
+       const aiReply = `🤖 *AI Assistant*:
+${response.data.response}
+
+*POWERED BY MR FRANK*`;
+
+       return reply(aiReply);
+   } catch (e) {
+       console.log(e);
+       return reply("⚠️ An error occurred while fetching AI response. Please try again later.");
    }
-}catch(e){
-   console.log(e)
-   reply(`Error: ${e.message}`)
-}
-})
+});
