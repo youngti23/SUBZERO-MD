@@ -2,5 +2,5 @@ services:
   - type: web
     name: SUBZERO-MD
     env: docker
-    region: Frankfurt
+    region: Oregon
     plan: free
