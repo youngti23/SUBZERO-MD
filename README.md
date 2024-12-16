@@ -6,7 +6,7 @@
 
 ----------
 
-<a><img src='https://i.postimg.cc/9fVpSkn7/IMG-20241213-WA0012.jpg'/></a>
+<a><img src='[https://i.postimg.cc/9fVpSkn7/IMG-20241213-WA0012.jpg](https://i.postimg.cc/c6H5dJj6/subzero1.jpg)'/></a>
 
 -------
 
