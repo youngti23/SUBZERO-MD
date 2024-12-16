@@ -6,7 +6,7 @@
 
 ----------
 
-<<img src='https://i.postimg.cc/c6H5dJj6/subzero1.jpg'/>
+<img src='https://i.postimg.cc/c6H5dJj6/subzero1.jpg' width= "500" height="500"/>
 
 -------
 
