@@ -31,7 +31,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-let data = await fetchJson(`https://api.giftedtech.my.id/api/ai/gpt4v2?apikey=gifted&q=${q}`)
+let data = await fetchJson(`https://api.giftedtech.my.id/api/ai/gpt-turbo?apikey=gifted&q=${q}`)
 return reply(`${data.data}`)
 }catch(e){
 console.log(e)
