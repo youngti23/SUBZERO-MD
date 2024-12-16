@@ -1,7 +1,7 @@
 {
-  "name": "SUBZERO",
+  "name": "❄️SUBZERO MD❄️",
   "description": "BOT BY MR FRANK",
-  "logo": "https://i.postimg.cc/yWbpxH4j/subzero2.jpg",
+  "logo": "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg",
   "keywords": ["bot"],
   "success_url": "https://github.com/mrfrank-ofc/SUBZERO-MD",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.postimg.cc/yWbpxH4j/subzero2.jpg"
+      "value": "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg"
     }, 
     
     "ALIVE_MSG": {
@@ -40,13 +40,13 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
@@ -70,13 +70,13 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦『 SUBZERO MD』✦"
+      "value": "✦『 ＳＵＢＺＥＲＯ - ＭＤ』✦"
     }, 
 
     "HEART_REACT": {
