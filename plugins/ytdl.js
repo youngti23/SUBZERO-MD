@@ -141,7 +141,7 @@ cmd({
       'image': {
         'url': _0x20e1e8.thumbnail
       },
-      'caption': "\n*❄️ＳＵＢＺＥＲＯ - ＭＤ❄️* \n\n┏━━━━━━━━━━━━━\n┃sᴜʙᴢᴇʀᴏ ᴍᴅꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅ ✻\n┗━━━━━━━━━━━━━\n┏━━━━━━━━━━━━━━\n\n\n🔢 *ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴛᴏ*\n*ᴅᴏᴡɴʟᴏᴀᴅ ꜰʀᴏᴍᴀᴛ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴜᴅɪᴏ 🎧*\n\n*1*     ┃  *ᴀᴜᴅɪᴏ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴏᴄᴜᴍᴇɴᴛ 📁*\n\n*2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n\n> sᴜʙᴢᴇʀᴏ ᴍᴅ✻\n"
+      'caption': "\n*❄️ＳＵＢＺＥＲＯ - ＭＤ❄️* \n\n┏━━━━━━━━━━━━━━━━━\n┃sᴜʙᴢᴇʀᴏ ᴍᴅ ꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ \n┗━━━━━━━━━━━━━━━━━\n┏━━━━━━━━━━━━━━\n\n🔢 *ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴛᴏ*\n*ᴅᴏᴡɴʟᴏᴀᴅ ꜰʀᴏᴍᴀᴛ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴜᴅɪᴏ 🎧*\n\n*1*     ┃  *ᴀᴜᴅɪᴏ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴏᴄᴜᴍᴇɴᴛ 📁*\n\n*2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n\n>© 2025 || sᴜʙᴢᴇʀᴏ ᴍᴅ\n"
     }, {
       'quoted': _0x1439a7
     });
@@ -205,7 +205,7 @@ cmd({
             },
             'mimetype': "audio/mp3",
             'fileName': _0x20e1e8.title + ".mp3",
-            'caption': "\n*© Gᴇɴᴇʀᴀᴛᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ SᴜʙZᴇʀᴏ❄️*\n "
+            'caption': "\n*© Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ SᴜʙZᴇʀᴏ🌟*\n "
           }, {
             'quoted': _0x25ddf5
           });
@@ -301,7 +301,7 @@ cmd({
             'video': {
               'url': _0x404514
             },
-            'caption': "\n*© Gᴇɴᴇʀᴀᴛᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ SᴜʙZᴇʀᴏ❄️*\n"
+            'caption': "\n*🌟Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ SᴜʙZᴇʀᴏ🌟*\n"
           }, {
             'quoted': _0x3dce21
           });
@@ -319,7 +319,7 @@ cmd({
             });
             await _0x2a6587.sendMessage(_0x5cd381, {
               'react': {
-                'text': '⬆️',
+                'text': '🔃',
                 'key': _0x3dce21.key
               }
             });
@@ -327,7 +327,7 @@ cmd({
               'video': {
                 'url': _0x13f213
               },
-              'caption': "\n*© Gᴇɴᴇʀᴀᴛᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ SᴜʙZᴇʀᴏ❄️*\n"
+              'caption': "\n*🌟Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ SᴜʙZᴇʀᴏ🌟*\n"
             }, {
               'quoted': _0x3dce21
             });
@@ -353,7 +353,7 @@ cmd({
                 'video': {
                   'url': _0x3e40d4
                 },
-                'caption': "\n*© Gᴇɴᴇʀᴀᴛᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ SᴜʙZᴇʀᴏ❄️*\n"
+                'caption': "\n*🌟Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ SᴜʙZᴇʀᴏ🌟*\n"
               }, {
                 'quoted': _0x3dce21
               });
@@ -379,7 +379,7 @@ cmd({
                   'video': {
                     'url': _0x14529b
                   },
-                  'caption': "\n*© Gᴇɴᴇʀᴀᴛᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ SᴜʙZᴇʀᴏ❄️*\n"
+                  'caption': "\n*🌟Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ SᴜʙZᴇʀᴏ🌟*\n"
                 }, {
                   'quoted': _0x3dce21
                 });
@@ -407,7 +407,7 @@ cmd({
                     },
                     'mimetype': "video/mp4",
                     'fileName': _0x546126.title + ".mp4",
-                    'caption': "\n*© Gᴇɴᴇʀᴀᴛᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ SᴜʙZᴇʀᴏ❄️*\n"
+                    'caption': "\n*🌟Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ SᴜʙZᴇʀᴏ🌟*\n"
                   }, {
                     'quoted': _0x3dce21
                   });
@@ -435,7 +435,7 @@ cmd({
                       },
                       'mimetype': "video/mp4",
                       'fileName': _0x546126.title + ".mp4",
-                      'caption': "\n*© Gᴇɴᴇʀᴀᴛᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ SᴜʙZᴇʀᴏ❄️*\n"
+                      'caption': "\n*🌟Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ SᴜʙZᴇʀᴏ🌟*\n"
                     }, {
                       'quoted': _0x3dce21
                     });
@@ -463,7 +463,7 @@ cmd({
                         },
                         'mimetype': "video/mp4",
                         'fileName': _0x546126.title + ".mp4",
-                        'caption': "\n*© Gᴇɴᴇʀᴀᴛᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ SᴜʙZᴇʀᴏ❄️*\n"
+                        'caption': "\n*🌟Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ SᴜʙZᴇʀᴏ🌟*\n"
                       }, {
                         'quoted': _0x3dce21
                       });
@@ -491,7 +491,7 @@ cmd({
                           },
                           'mimetype': "video/mp4",
                           'fileName': _0x546126.title + ".mp4",
-                          'caption': "\n*© Gᴇɴᴇʀᴀᴛᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ SᴜʙZᴇʀᴏ❄️*\n"
+                          'caption': "\n*🌟Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ SᴜʙZᴇʀᴏ🌟*\n"
                         }, {
                           'quoted': _0x3dce21
                         });
