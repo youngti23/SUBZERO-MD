@@ -68,8 +68,8 @@ cmd({
             await require('fs').promises.writeFile(nameWebp, stickerBuffer);
 
             let sticker = new Sticker(nameWebp, {
-                pack: pushname, // The pack name
-                author: '', // The author name
+                pack: '❄️ＳＵＢＺＥＲＯ - ＭＤ❄️', // The pack name
+                author: '『 Mʀ Fʀᴀɴᴋ Oғᴄ』', // The author name
                 type: q.includes('--crop') || q.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
                 categories: ['🤩', '🎉'], // The sticker category
                 id: '12345', // The sticker id
