@@ -23,7 +23,7 @@ const { fetchJson } = require('../lib/functions')
 
 cmd({
     pattern: "ai",
-    alias: ["gpt","bot"], 
+    alias: ["gpt","subzero"], 
     react: "🧠",
     desc: "ai chat.",
     category: "main",
@@ -31,7 +31,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-let data = await fetchJson(`https://exonity.tech/api/letmegpt?message=${q}`)
+let data = await fetchJson(`https://api.giftedtech.my.id/api/ai/gpt4v2?apikey=gifted&q=${q}`)
 return reply(`${data.data}`)
 }catch(e){
 console.log(e)
