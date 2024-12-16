@@ -16,25 +16,33 @@
 ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
 
 
-
 const config = require('../config')
 const {cmd , commands} = require('../command')
 const { fetchJson } = require('../lib/functions')
 
 cmd({
-    pattern: "ai",
-    alias: ["gpt","subzero"], 
-    react: "🧠",
-    desc: "ai chat.",
-    category: "main",
-    filename: __filename
+   pattern: "ai",
+   alias: ["gpt","subzero"], 
+   react: "🧠",
+   desc: "ai chat.",
+   category: "main",
+   filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-let data = await fetchJson(`https://api.giftedtech.my.id/api/ai/gpt-turbo?apikey=gifted&q=${q}`)
-return reply(`${data.data}`)
+   if (!q) {
+       return reply("Please provide a query for the AI. Usage: .ai [your question]")
+   }
+
+   let data = await fetchJson(`https://apis-v69.onrender.com/ai?query=${encodeURIComponent(q)}`)
+   
+   if (data && data.response) {
+       return reply(data.response)
+   } else {
+       return reply("Sorry, I couldn't get a response from the AI.")
+   }
 }catch(e){
-console.log(e)
-reply(`${e}`)
+   console.log(e)
+   reply(`Error: ${e.message}`)
 }
 })
