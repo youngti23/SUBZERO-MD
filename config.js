@@ -31,7 +31,7 @@ MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/yWbpxH4j/subzero2.jpg", // DO NOT CHANGE
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg", // DO NOT CHANGE
 ALIVE_MSG: process.env.ALIVE_MSG || "sᴜʙᴢᴇʀᴏ ᴀɪ ɪs ᴀʟɪᴠᴇ. ᴋᴇᴇᴘ sᴜᴘᴘᴏʀᴛɪɴɢ *Zᴇʀᴏ Cᴏᴅᴇʀs❄️*\n\n> ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ",
 ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",
