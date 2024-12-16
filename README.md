@@ -6,7 +6,7 @@
 
 ----------
 
-<a><img src='https://i.postimg.cc/c6H5dJj6/subzero1.jpg'/></a>
+<<img src='https://i.postimg.cc/c6H5dJj6/subzero1.jpg'/>
 
 -------
 
