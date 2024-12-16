@@ -3,7 +3,7 @@
   "description": "BOT BY MR FRANK",
   "logo": "https://i.postimg.cc/yWbpxH4j/subzero2.jpg",
   "keywords": ["bot"],
-  "success_url": "/",
+  "success_url": "https://github.com/mrfrank-ofc/SUBZERO-MD",
 
     "stack": "container",
   "env": {
