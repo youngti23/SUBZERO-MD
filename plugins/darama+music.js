@@ -25,7 +25,7 @@ const {cmd , commands} = require('../command')
 const fg = require('api-dylux')
 const yts = require('yt-search')
 cmd({
-    pattern: "play2",
+    pattern: "play",
     desc: "To download songs.",
     react: "🎵",
     category: "download",
@@ -39,10 +39,11 @@ const data = search.videos[0];
 const url = data.url
     
     
-let desc = `
-⫷⦁*SUBZERO-MD MUSⵊC DOWNLOADⵊNG*⦁⫸
+let desc = `━━━━━━━━━━━━━━━━━━━━━━
+*❄️ ＳＵＢＺＥＲＯ - ＭＤ ❄️*
+━━━━━━━━━━━━━━━━━━━━━━
 
-🎵 *MUSⵊC FOUND!* 
+> *sᴜʙᴢᴇʀᴏ ᴍᴅ sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 
 ➥ *Title:* ${data.title} 
 ➥ *Duration:* ${data.timestamp} 
@@ -50,11 +51,13 @@ let desc = `
 ➥ *Uploaded On:* ${data.ago} 
 ➥ *Link:* ${data.url} 
 
-🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
+━━━━━━━━━━━━━━━━━━━━━━
+*ᴏɪʀ ᴄʜᴀɴɴᴇʟ*
+https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
 
-> *SUBZERO-MD WHATSAPP BOT* 
+ 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD* 
+> *© sᴜʙᴢᴇʀᴏ ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -66,7 +69,7 @@ let downloadUrl = down.dl_url
 
 //send audio message
 await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
-await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ*"},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"*© Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ Sᴜʙᴢᴇʀᴏ❤️🌟*"},{quoted:mek})
 
 }catch(e){
 console.log(e)
