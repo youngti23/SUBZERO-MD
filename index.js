@@ -121,8 +121,8 @@ https://mrfrankinc.vercel.app
 
 *Thanks For Supporting us♥️🪄*\n\n*PREFIX: ${prefix}*
 
-*✱╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺✱*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/9fVpSkn7/IMG-20241213-WA0012.jpg` }, caption: up })
+*✱╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺✱*`;
+conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg` }, caption: up })
 
 }
 })
