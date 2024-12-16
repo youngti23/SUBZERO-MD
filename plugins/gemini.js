@@ -34,7 +34,7 @@ cmd({
   try {
     if (!q) return reply('Please ask me a question');
 
-    const apikey = 'YOUR_GEMINI_API_KEY';
+    const apikey = 'https://api.agatz.xyz/api/gemini?message=';
     const response = await axios.post('(https://axios.xyz)', {
       apikey,
       query: q
