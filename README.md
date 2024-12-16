@@ -80,12 +80,19 @@ jobs:
 `🚀 IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+263xxxxxx THEN YOU CAN GET YOUR SESSION_ID 🚀`
 
 ----------
-## TAP HERE SESSION 
+## SESSION ONE
 <p align="center">
 <a href="https://subzero-session-id.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
 <p/>
+
+ ## SESSION TWO
+<p align="center">
+<a href="https://subzero-session-id-990a832eed4c.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=heroku"></a>
+<p/>
 --------
 
+
+ 
 🥂 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🥂 **[Baileys](https://github.com/WhiskeySockets/Baileys)**
 
 ------------------
