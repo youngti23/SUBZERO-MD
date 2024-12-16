@@ -23,7 +23,7 @@ const axios = require('axios');
 const { cmd, commands } = require('../command');
 
 cmd({
-    pattern: "srepo",
+    pattern: "repo",
     desc: "Fetch information about a GitHub repository.",
     category: "other",
     react: "🍃",
