@@ -5,7 +5,7 @@ const {
     Config,
     parsedJid,
     sleep,
-  } = require("../command");
+  } = require("../lib");
   const axios = require("axios");
   const { send } = require("../command");
   const fetch = require("node-fetch");
