@@ -1,13 +1,7 @@
-const {
-    aitts,
-    smd,
-    prefix,
-    Config,
-    parsedJid,
-    sleep,
-  } = require("../lib");
-  const axios = require("axios");
-  const { send } = require("../command");
+const axios = require('axios');
+const config = require('../config');
+const { cmd, commands } = require('../command');
+
   const fetch = require("node-fetch");
   function _0x2a0d(_0x32de74, _0xce23fd) {
     const _0x3ffb1a = _0x2953();
