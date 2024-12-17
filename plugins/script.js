@@ -58,7 +58,7 @@ await conn.sendMessage(from, { text: repo ,
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'Kᴇʀᴍ_Mᴅ-V4',
+title: 'SUBZERO MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/mrfrank-ofc/SUBZERO-MD" ,
