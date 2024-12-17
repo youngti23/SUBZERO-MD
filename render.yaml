@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: SUBZERO-MD
-    env: docker
-    region: Oregon
-    plan: free
