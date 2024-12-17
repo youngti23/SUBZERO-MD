@@ -99,8 +99,8 @@ function convertYouTubeLink(_0x584404) {
   return _0x584404;
 }
 cmd({
-  'pattern': "song",
-  'alias': "music",
+  'pattern': "music",
+  'alias': "music2",
   'desc': "To download songs.",
   'react': '🎵',
   'category': "download",
