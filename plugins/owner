@@ -22,7 +22,7 @@ const { cmd } = require('../command');
 cmd({
     pattern: "owner",
     react: "🚀", // Reaction emoji when the command is triggered
-    alias: ["silent", "kerm"],
+    alias: ["silent", "mrfrank"],
     desc: "Get owner number",
     category: "main",
     filename: __filename
@@ -61,6 +61,5 @@ async (conn, mek, m, { from }) => {
 
     } catch (error) {
         console.error(error);
-        await conn.sendMessage(from, { text: 'Sorry, there was an error fetching the owner contact.' }, { quoted: mekÂ });
-Â Â Â Â }
+        await conn.sendMessage(from, { text: 'Sorry, there was an error fetching the owner contact.' };
 });
