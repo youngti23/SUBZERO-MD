@@ -47,7 +47,7 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-*MADE WITH ♥ KERM_MD-V4*`;
+*MADE WITH ♥ SUBZERO MD*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
