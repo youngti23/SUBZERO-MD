@@ -64,7 +64,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
  *Enjoy these images! 👾*
 
-> 🌈*KERM_MD-V4 BOT PLUGINS*🏝️`
+> 🌈*SUBZERO BOT PLUGINS*🏝️`
 }, { quoted: mek });
 }
 
