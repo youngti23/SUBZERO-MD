@@ -23,8 +23,6 @@ const { cmd } = require('../command');
 const axios = require('axios');
 const { Buffer } = require('buffer');
 
-const GOOGLE_API_KEY = 'AIzaSyDebFT-uY_f82_An6bnE9WvVcgVbzwDKgU'; // Replace with your Google API key
-const GOOGLE_CX = '45b94c5cef39940d1'; // Replace with your Google Custom Search Engine ID
 
 cmd({
     pattern: "img",
@@ -39,7 +37,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Fetch image URLs from Google Custom Search API
         const searchQuery = encodeURIComponent(q);
-        const url = `https://api.giftedtech.my.id/api/search/googleimage?apikey=gifted&query=${searchQuery}&cx=${GOOGLE_CX}&key=${GOOGLE_API_KEY}&searchType=image&num=5`;
+        const url = `https://api.giftedtech.my.id/api/search/googleimage?apikey=gifted&query=${searchQuery}&searchType=image&num=5`;
         
         const response = await axios.get(url);
         const data = response.data;
