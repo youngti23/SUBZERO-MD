@@ -17,6 +17,8 @@
 
 
 
+const config = require('../config');
+
 
 const {cmd , commands} = require('../command')
 cmd({
@@ -29,19 +31,24 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-let madeMenu = `❁ ════ ❃•⇆•❃ ════ ❁
+let madeMenu = `━━━━━━━━━━━━━━━━━━━━━━━━
 
 *👋 HELLO ${pushname}*\n\n *I AM SUBZERO MD*\n\n *A MULTIDEVICE BOT 😗*\n\n *CREATED BY THE BIG TEAM ZERO CODERS🇨*\n\n *DON'T FORGET TO ENJOY BRO😎*\n\n\n *THANK YOU.😊*
 
-❁ ════ ❃•⇆•❃ ════ ❁
+━━━━━━━━━━━━━━━━━━━━━━━━
 
-SOURCE CODE : https://github.com/mrfrank-ofc/SUBZERO-MD
-FOLLOW OWNER:https://github.com/mrfrank-ofc/
-OWNER ACC :https://github.com/mrfrank-ofc/
+*SOURCE CODE* : https://github.com/mrfrank-ofc/SUBZERO-MD
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʙᴢᴇʀᴏ*
+*FOLLOW OWNER* :https://github.com/mrfrank-ofc/
 
-╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
+*OWNER ACC* : https://wa.me/18062212660/?text=SubZero+Fan+Here
+
+*CHANNEL* : https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
+
+
+> *MR FRANK OFC*
+
+━━━━━━━━━━━━━━━━━━━━━━━━
 `
 
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
