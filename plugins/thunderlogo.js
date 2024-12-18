@@ -1,7 +1,6 @@
-const { tlang } = require('../../lib/scraper')
-const Config = require('../../config')
-const prefix = Config.prefix
-const maker = require('mumaker')
+const config = require('../config');
+const { cmd, commands } = require('../command');
+
 
 module.exports = {
     name: 'thunder',
