@@ -1,5 +1,5 @@
 {
-  "name": "❄️SUBZERO MD❄️",
+  "name": "❄️ SUBZERO MD ❄️",
   "description": "BOT BY MR FRANK",
   "logo": "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg",
   "keywords": ["bot"],
@@ -22,7 +22,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HI DEAR IM ONLINE.!!♻️"
+      "value": "HI DEAR SUBZERO ONLINE.!!♻️"
     },
     
     "PREFIX": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦『 ＳＵＢＺＥＲＯ - ＭＤ』✦"
+      "value": "『 ＳＵＢＺＥＲＯ - ＭＤ』"
     }, 
 
     "HEART_REACT": {
