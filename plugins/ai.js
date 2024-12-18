@@ -31,7 +31,7 @@ async (conn, mek, m, { from, q, reply }) => {
    try {
        if (!q) return reply("❗ Please provide a query. Usage: .ai [your message]");
 
-       const response = await axios.get(`https://apis-v69.onrender.com/ai?query=${encodeURIComponent(q)}`);
+       const response = await axios.get(`https://api.giftedtech.my.id/api/ai/gpt?apikey=gifted&q=${encodeURIComponent(q)}`);
        
        const aiReply = `🤖 *AI Assistant*:
 ${response.data.response}
