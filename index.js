@@ -93,10 +93,10 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SUBZEROCONNECTED TO WHATSAPP ENJOY ✅')
+console.log('❄️ SUBZERO CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
-*╺╺╺⟢SUBZERO MD CONNECTED ✅⟣╺╺╺◈*
+*╺╺⟢SUBZERO MD CONNECTED ✅⟣╺╺◈*
 
 > *❄️ sᴜʙᴢᴇʀᴏ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ғᴏʀ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ ( xᴇʀᴏ ᴄᴏᴅᴇʀs ᴄᴇᴏ ❄️*
 
