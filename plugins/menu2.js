@@ -45,19 +45,19 @@ menu[commands[i].category] += `*┋* ${commands[i].pattern}\n`;
  }
 }
 
-let madeMenu = `*╭─────────────────❒⁠⁠⁠⁠*
+let madeMenu = `*❒─────────────────❒⁠⁠⁠⁠*
 *Hello ${pushname}*
-*╰─────────────────❒*
+*❒─────────────────❒*
 
 ━━━━━━━━━━━━━━━━━━━━
 > SUBZERO COMMAND LIST 2
 ━━━━━━━━━━━━━━━━━━━━
-*MADE BY MR FRANK OFC*
- ━━━━━━━━━━━━━━━━━━━━
 > *REPO*
+
  *https://github.com/ZwSyntax/SUBZERO-MD*
 ━━━━━━━━━━━━━━━━━━━━
 
+*MADE BY MR FRANK OFC*
 
 *╭───────────────❒⁠⁠⁠⁠*
 *│* *ᴅᴏᴡɴʟᴏᴀᴅ ᴄᴏᴍᴍᴀɴᴅs*
