@@ -52,16 +52,15 @@ let madeMenu = `*╭─────────────────❒⁠⁠
 ━━━━━━━━━━━━━━━━━━━━
 > SUBZERO COMMAND LIST 2
 ━━━━━━━━━━━━━━━━━━━━
-
-*MADE BY MR FRANK OFC
-
+*MADE BY MR FRANK OFC*
  ━━━━━━━━━━━━━━━━━━━━
-*REPO*
+> *REPO*
  *https://github.com/ZwSyntax/SUBZERO-MD*
 ━━━━━━━━━━━━━━━━━━━━
 
+
 *╭───────────────❒⁠⁠⁠⁠*
-*│* *❂ᴅᴏᴡɴʟᴏᴀᴅ ᴄᴏᴍᴍᴀɴᴅs❂*
+*│* *ᴅᴏᴡɴʟᴏᴀᴅ ᴄᴏᴍᴍᴀɴᴅs*
 *┕───────────────❒*
 *╭──────────●●►*
 ${menu.download}
@@ -110,7 +109,7 @@ ${menu.search}
 
 > *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ*
 
-╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
+*❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭❒
 `
 
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
