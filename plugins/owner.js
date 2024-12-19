@@ -21,8 +21,8 @@ const { cmd } = require('../command');
 
 cmd({
     pattern: "owner",
-    react: "🚀", // Reaction emoji when the command is triggered
-    alias: ["silent", "mrfrank"],
+    react: "🧠", // Reaction emoji when the command is triggered
+    alias: ["silent", "developer"],
     desc: "Get owner number",
     category: "main",
     filename: __filename
@@ -31,8 +31,8 @@ async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
         const ownerNumber = '+263719647303'; // Replace this with the actual owner number
-        const ownerName = 'Ｍｒ Ｆｒａｎｋ ＯＦＣ'; // Replace this with the owner's name
-        const organization = 'Ｓｕｂｚｅｒｏ  Ｂｏｔ'; // Optional: replace with the owner's organization
+        const ownerName = '⟣ ᴍʀ ғʀᴀɴᴋ⟢'; // Replace this with the owner's name
+        const organization = 'UD TEAM'; // Optional: replace with the owner's organization
 
         // Create a vCard (contact card) for the owner
         const vcard = 'BEGIN:VCARD\n' +
@@ -52,7 +52,7 @@ async (conn, mek, m, { from }) => {
 
         // Send a reply message that references the vCard
         await conn.sendMessage(from, {
-            text: `This is tmy owner's contact: ${ownerName}`,
+            text: `This is the owner's contact: ${ownerName}`,
             contextInfo: {
                 mentionedJid: [ownerNumber.replace('+263719647303') + '+18062212660@s.whatsapp.net'], // Mention the owner
                 quotedMessageId: sentVCard.key.id // Reference the vCard message
@@ -61,5 +61,6 @@ async (conn, mek, m, { from }) => {
 
     } catch (error) {
         console.error(error);
-        await conn.sendMessage(from, { text: 'Sorry, there was an error fetching the owner contact.' };
+        await conn.sendMessage(from, { text: 'Sorry, there was an error fetching the owner contact.' }, { quoted: mek });
+    }
 });
