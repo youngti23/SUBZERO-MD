@@ -1,0 +1,12 @@
+const config = require('../config');
+
+
+const {cmd , commands} = require('../command')
+cmd({
+    pattern: "about",
+    alias: ["subzero-md"],
+    react: "👑",
+    desc: "get owner dec",
+    category: "main",
+    filename: __filename
+},
