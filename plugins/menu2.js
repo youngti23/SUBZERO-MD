@@ -52,8 +52,6 @@ let madeMenu = `*❒─────────────────❒⁠⁠
 ━━━━━━━━━━━━━━━━━━━━
 > SUBZERO COMMAND LIST 2
 ━━━━━━━━━━━━━━━━━━━━
-> *REPO*
-
  *https://github.com/ZwSyntax/SUBZERO-MD*
 ━━━━━━━━━━━━━━━━━━━━
 
