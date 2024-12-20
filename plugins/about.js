@@ -23,8 +23,8 @@ const config = require('../config');
 const {cmd , commands} = require('../command')
 cmd({
     pattern: "about",
-    alias: ["subzero-md"],
-    react: "👑",
+    alias: ["darrell"],
+    react: "🧠",
     desc: "get owner dec",
     category: "main",
     filename: __filename
@@ -33,19 +33,25 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let madeMenu = `━━━━━━━━━━━━━━━━━━━━━━━━
 
-*👋 HELLO ${pushname}*\n\n *I AM SUBZERO MD*\n\n *A MULTIDEVICE BOT 😗*\n\n *CREATED BY THE BIG TEAM ZERO CODERS🇨*\n\n *DON'T FORGET TO ENJOY BRO😎*\n\n\n *THANK YOU.😊*
-
+*👋 HELLO ${pushname}*\n\n *I AM SUBZERO MD*\n\n
+I am  WhatsApp Based Multi Device Bot Created By Darrell Mucheri T from Zimbabwe.\nMy sole purpose is to remove the burden or cost of purchusing data bundle to download Songs, Apps, Videos & Movies by  using whatsapp  bundles.
+\n\n *For More Visit*: https://mrfrankinc.vercel.app/
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
-*SOURCE CODE* : https://github.com/mrfrank-ofc/SUBZERO-MD
+> *SOURCE CODE* : https://github.com/mrfrank-ofc/SUBZERO-MD
 
-*FOLLOW OWNER* :https://github.com/mrfrank-ofc/
+> *FOLLOW OWNER* :https://github.com/mrfrank-ofc/
 
-*OWNER ACC* : https://wa.me/18062212660/?text=SubZero+Fan+Here
+> *OWNER'S WHATSAPP* : https://wa.me/18062212660/?text=SubZero+Fan+Here
 
-*CHANNEL* : https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
+> *SUPPORT CHANNEL* : https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
 
+> *FOLLOW INSTAGRAM* :https://instagram.com/mrfrankofc/
 
+> *FOLLOW OWNER* :https://youtube.com/mrfr4nk/
+
+ *RELEASE DATE* - *15 December 2024*
+ 
 > *MR FRANK OFC*
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
