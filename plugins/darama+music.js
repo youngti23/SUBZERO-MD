@@ -25,9 +25,9 @@ const {cmd , commands} = require('../command')
 const fg = require('api-dylux')
 const yts = require('yt-search')
 cmd({
-    pattern: "play2",
+    pattern: "music",
     desc: "To download songs.",
-    react: "🎵",
+    react: "⏳",
     category: "download",
     filename: __filename
 },
