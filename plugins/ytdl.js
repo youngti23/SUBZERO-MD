@@ -291,7 +291,7 @@ cmd({
             },
             'mimetype': "audio/mp3",
             'fileName': _0x20e1e8.title + ".mp3",
-            'caption': "\n> *© Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ SᴜʙZᴇʀᴏ ❤️*\n "
+            'caption': "\n> *© Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ SᴜʙZᴇʀᴏ ❤️*\n "
           }, {
             'quoted': _0x25ddf5
           });
