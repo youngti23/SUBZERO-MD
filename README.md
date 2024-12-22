@@ -12,7 +12,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`ＳＵＢＺＥＲＯ+-+MD+-+V1+WHATSAPP+BOT+BY+MR+FRANK`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`ＳＵＢＺＥＲＯ+MD+V1+W.A+BOT+BY+MR+FRANK`" alt="">
 
 <br>
 
