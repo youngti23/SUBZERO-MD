@@ -44,6 +44,9 @@ I am  WhatsApp Based Multi Device Bot Created By Darrell Mucheri T from Zimbabwe
 
 > *OWNER'S WHATSAPP* : https://wa.me/18062212660/?text=SubZero+Fan+Here
 
+> *maintained by* :
+https://wa.me/265993702468/?text=SubZero+Fan+Here
+
 > *SUPPORT CHANNEL* : https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
 
 > *FOLLOW INSTAGRAM* :https://instagram.com/mrfrankofc/
