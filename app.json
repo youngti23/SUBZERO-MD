@@ -7,10 +7,10 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Subzero~DYpnjD6a#f63XjvJZRTiHeTq-R1Y7zPVSIyWq1n5qepWQmfZXJu8
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": ""true
     },  
     
     "ALIVE_IMG": {
@@ -25,7 +25,7 @@
       "value": "HI DEAR SUBZERO ONLINE.!!♻️"
     },
     
-    "PREFIX": {
+    "PREFIX": {.
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
       "value": "."
@@ -37,68 +37,68 @@
       "value": "public"
     }, 
 
-    "AUTO_VOICE": {
+    "AUTO_VOICE": {true
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
-    "AUTO_REPLY": {
+    "AUTO_REPLY": {true
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
-    "AUTO_STICKER": {
+    "AUTO_STICKER": {true
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
-    "AUTO_READ_STATUS": {
+    "AUTO_READ_STATUS": {true
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
       "value": "true"
     }, 
 
-    "ANTI_LINK": {
+    "ANTI_LINK": {true
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
       "value": "true"
     },
 
-    "ANTI_BAD": {
+    "ANTI_BAD": {true
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
       "value": "true"
     }, 
 
-    "FAKE_RECORDING": {
+    "FAKE_RECORDING": {true
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
-    "AUTO_REACT": {
+    "AUTO_REACT": {true
       "description": "Make it true if you want bot AutoReact.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
-    "OWNER_REACT": {
+    "OWNER_REACT": {true
       "description": "Make it true if you want bot OwnerReact.",
       "required": false,
       "value": "false"
     
     }, 
 
-    "BOT_NAME": {
+    "BOT_NAME": {SUBZERO 
       "description": "write hear your name.",
       "required": true,
       "value": "『 ＳＵＢＺＥＲＯ - ＭＤ』"
     }, 
 
-    "HEART_REACT": {
+    "HEART_REACT": {true
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
       "required": true,
       "value": "false"
